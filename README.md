@@ -2,6 +2,6 @@
 Autor: szymonwalczu@gmail.com
 Technologia: html, css, js
 Uruchomienie: index.html
-Strona: 
+Strona: https://walczxak.github.io/egzamin-2024-czerwiec/
 Deploy: Szymon Walczak
 Pliki i foldery: egzamin
