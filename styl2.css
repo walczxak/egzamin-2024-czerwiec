@@ -1,0 +1,10 @@
+body {
+	font-family: Helvetica;
+	background-color: Linen;
+	color: #222;
+	margin: auto;
+	width: 90%;
+}
+header {
+	display: flex;
+}
